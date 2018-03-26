@@ -1,0 +1,8 @@
+{
+    "name": "yeochinyi/php-tut-hello-world",
+    "description": "Just a test",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "monolog/monolog": "1.0.*"
+    }
+}
